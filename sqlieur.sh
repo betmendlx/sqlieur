@@ -42,7 +42,7 @@ log() {
 # Fungsi untuk menampilkan header
 print_header() {
     echo -e "${BLUE}============================================================${NC}"
-    echo -e "${BLUE}  SQLi Scanner - Automated Vulnerability Scan - betmenXsec  ${NC}"
+    echo -e "${BLUE}  Sqlieur - Automated Vulnerability Scan - betmenXsec  ${NC}"
     echo -e "${BLUE}============================================================${NC}"
     echo -e "${GREEN}Target: $TARGET${NC}"
     echo -e "${GREEN}Output Directory: $OUTPUT_DIR${NC}"
