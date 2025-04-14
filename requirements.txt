@@ -1,0 +1,39 @@
+# SQLi Scanner Dependencies
+# =======================
+
+# System Requirements
+# -----------------
+# - Go >= 1.16
+# - Python >= 3.7
+# - pip3
+# - Virtual Environment (recommended)
+
+# Go Tools
+# --------
+github.com/projectdiscovery/katana/cmd/katana@latest
+github.com/lc/gau/v2/cmd/gau@latest
+github.com/projectdiscovery/httpx/cmd/httpx@latest
+
+# Python Tools
+# -----------
+sqlmap>=1.9.4
+
+# Optional Dependencies
+# -------------------
+# - tor (for anonymous scanning)
+# - proxychains (for proxy support)
+# - python3-full (for virtual environment)
+
+# Installation Notes
+# ----------------
+# 1. Create virtual environment:
+#    python3 -m venv venv
+#    source venv/bin/activate
+#
+# 2. Install Python dependencies:
+#    pip install -r requirements.txt
+#
+# 3. Install Go tools:
+#    go install github.com/projectdiscovery/katana/cmd/katana@latest
+#    go install github.com/lc/gau/v2/cmd/gau@latest
+#    go install github.com/projectdiscovery/httpx/cmd/httpx@latest 
