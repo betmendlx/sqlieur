@@ -1,7 +1,7 @@
-# SQLi Scanner - Automated Vulnerability Scanner
+# Sqlieur - Automated SQL Vulnerability Scanner
 
 ## Deskripsi
-SQLi Scanner adalah alat otomatis untuk mendeteksi kerentanan SQL Injection pada aplikasi web. Alat ini mengumpulkan URL dari berbagai sumber dan melakukan pengujian menggunakan sqlmap.
+Sqlieur adalah alat otomatis untuk mendeteksi kerentanan SQL Injection pada aplikasi web. Alat ini mengumpulkan URL dari berbagai sumber dan melakukan pengujian menggunakan sqlmap.
 
 ## Fitur Utama
 - Pengumpulan URL otomatis menggunakan katana dan gau
@@ -26,8 +26,8 @@ SQLi Scanner adalah alat otomatis untuk mendeteksi kerentanan SQL Injection pada
 ## Instalasi
 1. Clone repository:
 ```bash
-git clone https://github.com/bermenXsec/sqli-scanner.git
-cd sqli-scanner
+git clone https://github.com/bermendlx/sqlieur.git
+cd sqlieur
 ```
 
 2. Buat dan aktifkan virtual environment:
@@ -140,5 +140,5 @@ MIT License
 Alat ini hanya untuk tujuan edukasi dan pengujian keamanan. Penggunaan untuk aktivitas ilegal adalah tanggung jawab pengguna.
 
 ## Kontak
-- Email: bermen@example.com
-- Twitter: @bermenXsec 
+- Email: betmen0x0@proton.me
+- Twitter: @betmen0x0 
