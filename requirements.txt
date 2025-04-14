@@ -1,4 +1,4 @@
-# SQLi Scanner Dependencies
+# Sqlieur Scanner Dependencies
 # =======================
 
 # System Requirements
