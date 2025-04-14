@@ -26,7 +26,7 @@ Sqlieur adalah alat otomatis untuk mendeteksi kerentanan SQL Injection pada apli
 ## Instalasi
 1. Clone repository:
 ```bash
-git clone https://github.com/bermendlx/sqlieur.git
+git clone https://github.com/betmendlx/sqlieur.git
 cd sqlieur
 ```
 
